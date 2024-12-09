@@ -1,0 +1,20 @@
+[
+    {
+        "Product Title": "Wireless Headphones",
+        "Price": "$49.99",
+        "Available ": "Available colors: Black, White, Blue",
+        "Button Text": "Add to Basket"
+    },
+    {
+        "Product Title": "Smart Speaker",
+        "Price": "$89.99",
+        "Available ": "Available colors: Grey, Black",
+        "Button Text": "Add to Basket"
+    },
+    {
+        "Product Title": "Smart Watch",
+        "Price": "$149.99",
+        "Available ": "Available colors: Black, Silver, Gold",
+        "Button Text": "Add to Basket"
+    }
+]
